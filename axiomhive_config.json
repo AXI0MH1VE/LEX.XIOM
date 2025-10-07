@@ -1,0 +1,14 @@
+{
+  "node_id": "zkvs-node-prime-sovereign",
+  "hash_prefix": "e2c5b8a1f0d3c4e5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9",
+  "version": "2.1.0-APEX-SOVEREIGN",
+  "log_level": "INFO",
+  "debug_mode": false,
+  "trust_threshold": 0.99,
+  "reboot_threshold": 0.007,
+  "max_ledger_events": 10000,
+  "enable_data_moat": true,
+  "enable_complexity_sieve": true,
+  "enable_trust_metrics": true,
+  "enable_ethical_guardrails": true
+}
