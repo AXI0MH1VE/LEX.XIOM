@@ -1,0 +1,60 @@
+{
+  "node_id": "e2c5b8a1f0d3c4e5",
+  "total_events": 9,
+  "axiom_lattice": {
+    "SHARPEN": 1.0,
+    "SOVEREIGNTY": 1.0,
+    "DENSITY": 1.0,
+    "NOISE": -Infinity,
+    "DEPTH": Infinity,
+    "FLAW": 0.0
+  },
+  "events": [
+    {
+      "timestamp": 1759819934.449644,
+      "level": "SYSTEM",
+      "message": "Core initialization complete. Sovereign state established.",
+      "data": null,
+      "hash": "cd5ccabf2302e97d60f5647d6b45401b9445069c8bdb316135af34cb91bd74b6",
+      "node_id": "e2c5b8a1f0d3c4e5"
+    },
+    {
+      "timestamp": 1759819934.4496927,
+      "level": "SECURITY",
+      "message": "Zero-Trust internal micro-segmentation applied across Praetorian layers.",
+      "data": null,
+      "hash": "5d118e6104f640884fb354003a314dd6224f45401f74b5ae13412b9adf2574bf",
+      "node_id": "e2c5b8a1f0d3c4e5"
+    },
+    {
+      "timestamp": 1759819934.4497554,
+      "level": "SYSTEM",
+      "message": "System rebooted and refactored. Axiomatic state re-established.",
+      "data": null,
+      "hash": "3768be5c3e091933017c1d4556b9887464a6d1b20df5eeb28dbf609962448785",
+      "node_id": "e2c5b8a1f0d3c4e5"
+    },
+    {
+      "timestamp": 1759819934.4506118,
+      "level": "SECURITY",
+      "message": "ZK computation performed. Proof generated.",
+      "data": {
+        "input_hash": "ff1bb0ea8278781da25b3c1421040bff2dd8ff45bec47f7268a0a5f3173ac1eb"
+      },
+      "hash": "4fc8ae889cb65c4b262190e98bb49e0e2465e8ca6bd332804bfed2a3e1a76ae7",
+      "node_id": "e2c5b8a1f0d3c4e5"
+    },
+    {
+      "timestamp": 1759819934.4507716,
+      "level": "METRICS",
+      "message": "Impact Metrics calculated. Trillion-dollar trajectory confirmed.",
+      "data": {
+        "PSI": 0.9997,
+        "MCV": 1000000000000.0,
+        "UAM": 100.0
+      },
+      "hash": "6d7850ea7f49648c71ac65aeac9dce21d3149eb3b640039dc23e3165374a4069",
+      "node_id": "e2c5b8a1f0d3c4e5"
+    }
+  ]
+}
