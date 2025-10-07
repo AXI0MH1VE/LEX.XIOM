@@ -1,0 +1,42 @@
+@AXIOMHIVE @DEVDOLLZAI ALEXIS ADAMS
+# Gitignore for AXIOMHIVE ZKVS SIEVE PROTOCOL
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+.env/
+venv/
+*.venv/
+
+# Logs and output
+*.log
+*.tmp
+*.out
+*.err
+audit_log.json # Managed internally by Verifiable Ledger
+axiomhive_demo_ledger.json # Demo output file
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Infrastructure specific
+*.tfstate
+*.tfstate.backup

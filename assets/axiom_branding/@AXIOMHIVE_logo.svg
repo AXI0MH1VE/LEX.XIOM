@@ -1,0 +1,9 @@
+<!-- @AXIOMHIVE @DEVDOLLZAI ALEXIS ADAMS -->
+<!-- Placeholder for AXIOMHIVE Logo SVG -->
+<!-- In a real repository, this would contain the actual SVG code for the logo. -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#000000"/>
+<path d="M100 20L180 100L100 180L20 100L100 20Z" fill="#00FFFF" stroke="#00FF00" stroke-width="5"/>
+<path d="M100 50L155 100L100 150L45 100L100 50Z" fill="#FF00FF" stroke="#FFFF00" stroke-width="3"/>
+<text x="50%" y="105%" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle">@AXIOMHIVE</text>
+</svg>

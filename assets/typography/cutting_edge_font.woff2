@@ -1,0 +1,13 @@
+/* @AXIOMHIVE @DEVDOLLZAI ALEXIS ADAMS */
+/* Placeholder for cutting_edge_font.woff2 */
+/* In a real repository, this would be the binary data of the WOFF2 font file. */
+/* This file is referenced in the README.md for thematic typography. */
+/* Example CSS for usage: */
+/*
+@font-face {
+    font-family: 'cutting_edge_font';
+    src: url('cutting_edge_font.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+*/
